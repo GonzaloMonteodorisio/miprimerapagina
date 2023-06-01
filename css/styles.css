@@ -142,3 +142,7 @@ footer {
   min-height: 200px;
   background-color: azure;
 }
+
+.greeting {
+  text-align: center;
+}
